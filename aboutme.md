@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Trying to change the world one line of code at a time.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm currently working on architecting and building scalable and fault tolerant data pipelines and platforms. A lot of my work includes working with technologies like Apache Spark, Hive, Presto, Kafka and AWS.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My areas of interest lies in performance engineering and machine learning. 
 
-What else do you need?
+I blog about things I've learnt and hope to revisit sometime in the future.
 
-### my history
+You can find me at [LinkedIn](https://in.linkedin.com/in/oliver-mascarenhas-71718b16).
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free to contact me at oliver.savio(at)gmail.com for consultation related to the topics on my blog.
